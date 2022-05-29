@@ -2,3 +2,16 @@ body{
     margin: 0;
     
 }
+ul li{
+    margin-top: 10px;
+}
+.font-exo{
+    font-family: 'Exo 2', sans-serif;
+}
+.font-lato{
+    font-family: 'Lato', sans-serif;
+}
+.background{
+    background-image: url(./img/background.jpg);
+    background-size: cover;
+}
